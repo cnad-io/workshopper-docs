@@ -1,6 +1,6 @@
 = Workshopper
 
-El objetivo de workshopper es proporcionar facilidades para la creación, reutilización y distribución de laboratorios tipo workshops. 
+El objetivo de workshopper es proporcionar facilidades para la creación, reutilización y distribución de laboratorios tipo workshops.
 
 == Arquitectura
 
@@ -8,3 +8,22 @@ La https://www.lucidchart.com/documents/edit/69427313-fb66-4799-b4d4-5836a358437
 
 
 image::assets/architecture.png[Arquitectura]
+=== componentes
+*Bartender*: (barto)
+
+*Barkeeper*:
+
+*Storage Cellar*:
+
+*Liquor suppliers*:
+
+*Barrel*:
+
+*Bar*:
+
+
+== MVP 1
+
+El primer objetivo es crear los primeros componentes funcionales dados en el siguiente diagrama del https://www.lucidchart.com/documents/edit/69427313-fb66-4799-b4d4-5836a3584374/V9bYfhHvKJ0g#?folder_id=home&browser=icon[MVP1]
+
+image::assets/mvp1.png[MVP1]
