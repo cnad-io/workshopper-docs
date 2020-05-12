@@ -1,0 +1,10 @@
+= Workshopper
+
+El objetivo de workshopper es proporcionar facilidades para la creación, reutilización y distribución de laboratorios tipo workshops. 
+
+== Arquitectura
+
+La https://www.lucidchart.com/documents/edit/69427313-fb66-4799-b4d4-5836a3584374/R8BgG7O7bO0q#?folder_id=home&browser=icon[arquitectura] está representada en el siguiente diagrama:
+
+
+image::https://www.lucidchart.com/documents/embeddedchart/69427313-fb66-4799-b4d4-5836a3584374[asda]
