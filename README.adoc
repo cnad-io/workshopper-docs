@@ -8,18 +8,19 @@ La https://www.lucidchart.com/documents/edit/69427313-fb66-4799-b4d4-5836a358437
 
 
 image::assets/architecture.png[Arquitectura]
+
 === componentes
-*Bartender*: (barto)
+*Bartender*: (barto) Proporciona servicios para el atender BAR
 
-*Barkeeper*:
+*Barkeeper*: TBD
 
-*Storage Cellar*:
+*Storage Cellar*: Gestiona y conoce a los repositorios externos en los que se alojan los contenidos 
 
-*Liquor suppliers*:
+*Liquor suppliers*: TBD
 
-*Barrel*:
+*Barrel*:  TBD
 
-*Bar*:
+*Bar*: Interfaz web para consumo del usuario final
 
 
 == MVP 1
